@@ -1,6 +1,6 @@
 bmf ! i need more , especially in fandoms im in !!
 checkout my carrd :3
-im super shy so you might have to int first ,
+im super shy so you might have to int first , i warm up after awhile !
 TBHK fan since 2020
 
 
