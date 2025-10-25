@@ -4,5 +4,4 @@
 <div style='text-align: right;'> im kinda awkward sorry 
 
 
-![alt text](https://github.com/juniebugs/juniebugs/blob/2fba25060f4ec0b33daa3d9171fbfbc1d2a3b36c/tbhkbanner.webp)
-
+![alt text](https://github.com/juniebugs/juniebugs/blob/390b21e3cba89d76b77c5c4e442b825084df12dd/tbhkbnaner2.jpg)
