@@ -15,6 +15,4 @@
 
 <p align="center"> ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟⠀ ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི
 
-<div style='text-align: right;'> im junie
-<div style='text-align: right;'> bonnie bullys me
-<div style='text-align: right;'> wah
+
