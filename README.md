@@ -14,3 +14,5 @@
 </p>
 
 <p align="center"> ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟⠀ ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི
+
+<div style='text-align: right;'> dsf
