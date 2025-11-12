@@ -1,6 +1,8 @@
 <p align="center"> ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟⠀ ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི
 
-[ata](https://latejune.atabook.org/)
+<div align="center">
+  <a href="https://latejune.atabook.org/">sign ata!</a>
+</div>
 
 <p align="center"> <img src="https://github.com/juniebugs/juniebugs/blob/9bf60a37f1f30d7cace1c7c389a6915e9d3e8086/suapng1.png" alt="Alt text" width="400"/> 
 
