@@ -1,7 +1,7 @@
 <p align="center"> ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟⠀ ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི
 
 <div align="center">
-  <a href="https://latejune.atabook.org/" style="font-size:24px; text-decoration:none; color:#86B5A1;">
+  <a href="https://latejune.atabook.org/" style="font-size:24; text-decoration:none; color:#86B5A1;">
    sign ata >_<
   </a>
 </div>
