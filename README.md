@@ -23,9 +23,3 @@
 
 
 
-
-
-
- ![Alt text](https://github.com/juniebugs/juniebugs/blob/019e971985ea04554237f7991904c926e915962b/lesbian.webp)  ![Alt text](https://github.com/juniebugs/juniebugs/blob/bd0c180018aac2fe9998f298e23f8f996b8c0d75/lesbian2.png) 
-
-
