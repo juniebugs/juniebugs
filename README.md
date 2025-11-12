@@ -1,5 +1,8 @@
 <p align="center"> ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི◟⠀ ◞  ྀི◟ ͜  ◞ ྀི◟  ͜  ◞ ྀི
 
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=juniebugs)
+
+
 <p align="center"> <img src="https://github.com/juniebugs/juniebugs/blob/9bf60a37f1f30d7cace1c7c389a6915e9d3e8086/suapng1.png" alt="Alt text" width="400"/> 
 
 <p align="center">ㅤ𓏵  junie ⊹ ࣪ 𓏵 16 ⟢ 
