@@ -9,7 +9,7 @@
 <p align="center">ㅤ𓏵  junie ⊹ ࣪ 𓏵 16 𓂃 
 
 <p align="center"> ◞ c+h always fine , w2iㅤ ͜͜      ㅤdnc my skins ⸝⸝ ˖
-<p align="center">  ╰ typically mute unless w friends ◞
+<p align="center">  ﹕ typically mute unless w friends ◞
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
