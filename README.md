@@ -6,10 +6,10 @@
 
 <p align="center"> <img src="https://github.com/juniebugs/juniebugs/blob/9bf60a37f1f30d7cace1c7c389a6915e9d3e8086/suapng1.png" alt="Alt text" width="400"/> 
 
-<p align="center">ㅤ𓏵  junie ⊹ ࣪ 𓏵 16 ⟢ 
+<p align="center">ㅤ𓏵  junie ⊹ ࣪ 𓏵 16 𓂃 
 
 <p align="center"> ◞ c+h always fine , w2iㅤ ͜͜      ㅤdnc my skins ⸝⸝ ˖
-<p align="center">  ╰ typically mute unless w friends ˊ˗
+<p align="center">  ╰ typically mute unless w friends ◞
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
