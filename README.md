@@ -8,8 +8,8 @@
 
 <p align="center">ㅤ𓏵  junie ⊹ ࣪ 𓏵 16 ⟢ 
 
-<p align="center"> ◞ shy 2 int first , w2iㅤ ͜͜      ㅤdnc my skins ⸝⸝ ˖
-  
+<p align="center"> ◞ c+h always fine , w2iㅤ ͜͜      ㅤdnc my skins ⸝⸝ ˖
+<p align="center"> ⸝⸝ typically mute unless w friends.
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
