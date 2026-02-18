@@ -1,6 +1,6 @@
 
 <p align="center" width="100%">
-    <img src="https://komarev.com/ghpvc/?username=juniebugs&label=✦ㅤstars&color=010409&style=plastic"> 
+    <img src="https://komarev.com/ghpvc/?username=juniebugs&label=✦ㅤstars&color=ece7dc&style=plastic"> 
 </p>
 <p align="center" width="100%">
 <image src="https://github.com/juniebugs/juniebugs/blob/ff1ed3492e5b3a93b2d7fd886a6868ff1956b294/Untitled1053_20260218162050.png"
