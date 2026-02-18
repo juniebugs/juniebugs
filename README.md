@@ -1,5 +1,5 @@
 <p align="center"> retheming come back later
-
+<p align="center"> add my dc tho LOL tsukm_
 
 <p align="center"> <img src="https://github.com/juniebugs/juniebugs/blob/8c692e9382a7692b54e28896c65246695e010ca8/adasd.png" alt="Alt text" width="400"/> 
 
