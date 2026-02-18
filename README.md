@@ -1,4 +1,4 @@
-[![star rage](https://komarev.com/ghpvc/?username=juniebugs&color=cf9c6d)][1]
+
 <p align="center"> retheming come back later
 
 
