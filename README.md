@@ -1,13 +1,11 @@
 
 <p align="center" width="100%">
     <img src="https://komarev.com/ghpvc/?username=juniebugs&label=✦ㅤstars&color=ece7dc&style=plastic"> 
-</p>
-<p align="center" width="600%">
-<image src="https://github.com/juniebugs/juniebugs/blob/ff1ed3492e5b3a93b2d7fd886a6868ff1956b294/Untitled1053_20260218162050.png"
-  </p>
-<p align="center" width="600%">
-.    ݁    ₊    ⊹    .    ݁    ⟡     ݁    .   ⊹    ₊    ݁   .
-</p>
+
+<div align="center">
+  <img src="https://github.com/juniebugs/juniebugs/blob/ff1ed3492e5b3a93b2d7fd886a6868ff1956b294/Untitled1053_20260218162050.png" width="500" />
+</div>
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
