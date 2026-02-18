@@ -2,7 +2,6 @@
 <p align="center"> retheming come back later
 
 
-<p align="center"> <img src="https://github.com/juniebugs/juniebugs/blob/668ce95e4556eb81b5a82690db263e245bdbad8e/banner%20test%201.png" alt="Alt text" width="1100"/> 
 
 
 <p align="center">
