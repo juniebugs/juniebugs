@@ -1,14 +1,14 @@
 <p align="center" width="100%">
     <img src="https://komarev.com/ghpvc/?username=juniebugs&label=✦ㅤstars&color=ece7dc&style=plastic"> 
 
-<p align="center">
- <a href="https://latejune.atabook.org/" target="_blank">ata</a>
-</p>
+
 
 <div align="center">
   <img src="https://github.com/juniebugs/juniebugs/blob/482327f7489e2bbdabba0de2ccbe83910d856624/Untitled1053_20260218162119%20(2).png" width="600" />
 </div>
-
+<p align="center">
+ <a href="https://latejune.atabook.org/" target="_blank">ata</a>
+</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
