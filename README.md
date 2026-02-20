@@ -4,7 +4,7 @@
 
     
 <div align="center">
-  <img src="https://github.com/juniebugs/juniebugs/blob/ff1ed3492e5b3a93b2d7fd886a6868ff1956b294/Untitled1053_20260218162050.png" width="700" />
+  <img src="https://github.com/juniebugs/juniebugs/blob/ff1ed3492e5b3a93b2d7fd886a6868ff1956b294/Untitled1053_20260218162050.png" width="600" />
 </div>
 <p align="center">
  <a href="https://latejune.atabook.org/" target="_blank">ata</a>
